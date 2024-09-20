@@ -72,6 +72,6 @@ def main():
     print(f"Total Net Pay: ${total_net}")
 
 
-# Run the program
+# This Runs the program
 if __name__ == "__main__":
     main()
