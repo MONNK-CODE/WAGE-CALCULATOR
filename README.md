@@ -1,4 +1,4 @@
-# PAY-CALCULATOR
+# WAGE-CALCULATOR
 
 ## Overview
 
