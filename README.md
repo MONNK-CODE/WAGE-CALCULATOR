@@ -21,10 +21,6 @@ The Wage Calculator is a Python program designed to compute the gross pay, total
 6. **View Summary**: At the end, a summary of total hours worked, gross pay, total tax, and net pay will be displayed.
 
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 Feel free to modify any sections to better fit your style or additional features!
+
+ I made a Web-Version of this check it out at https://github.com/MONNK-CODE/PAY-CALCULATOR
